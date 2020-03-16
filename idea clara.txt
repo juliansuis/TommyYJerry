@@ -1,0 +1,19 @@
+GATO
+nombre
+cantidad de energia = 0;
+velocidad = 5 metros/s
+
+public void comerRaton(Raton unRaton): energia = energia + pesoRaton;
+public void comerRatones(List<Raton> ratones): energia = energia + pesoRaton;
+public Double correr(Integer cantidadMetros): disminuye 0.5 * cantidadMetros ...
+... debe devolver lo que tardo (usando velocidad Gato)
+public Boolean meConvieneComerA(Raton unRaton, Integer unaDistancia): si le conviene o no correr y comer al raton dada la distancia y demas;
+
+
+getters y setters
+
+RATON
+nombre
+peso
+
+getters y setters
